@@ -12,8 +12,6 @@
 - 解决（Conquer）：用合并排序法对两个子序列递归的排序。
 - 合并（Combine）：合并两个已排序的子序列已得到排序结果。
 
-![v2-2958d4f3d9dd9156f1b5dca6788fe8a7_720w](https://raw.githubusercontent.com/luocongchao/luocongchao.github.io/master/imgs/v2-2958d4f3d9dd9156f1b5dca6788fe8a7_720w.jpg)
-
 ![sorting2](https://raw.githubusercontent.com/luocongchao/luocongchao.github.io/master/imgs/sorting2.gif)
 
 上图中首先把一个未排序的序列从中间分割成2部分，再把2部分分成4部分，依次分割下去，直到分割成一个一个的数据，再把这些数据两两归并到一起，使之有序，不停的归并，最后成为一个排好序的序列。
