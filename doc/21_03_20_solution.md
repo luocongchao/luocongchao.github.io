@@ -51,7 +51,7 @@
 
 而外部服务的认证和授权，通常由外部应用发起，通过反向代理或网关向安全边界内的服务发起请求，因此必须执行严格的认证过程。无线端APP、Web端、桌面客户端等外部应用下的各类服务，都属于外部服务。
 
-![1603917-7a207932c06978bd](./imgs/1603917-7a207932c06978bd.jpg)
+![1603917-7a207932c06978bd](https://github.com/luocongchao/luocongchao.github.io/blob/master/imgs/1603917-7a207932c06978bd.jpg)
 
 ### 3.6、帐号登出和销毁
 
@@ -109,7 +109,7 @@
 
 下图是该系统的微服务架构图：
 
-![1603917-719746516c5e66c2](./imgs/1603917-719746516c5e66c2.jpg)
+![1603917-719746516c5e66c2](https://github.com/luocongchao/luocongchao.github.io/blob/master/imgs/1603917-719746516c5e66c2.jpg)
 
 IBCS 微服务架构图
 
